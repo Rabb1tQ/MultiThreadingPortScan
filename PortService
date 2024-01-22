@@ -1,0 +1,13 @@
+21	FTP
+23	TELNET
+25	SMTP
+80	HTTP
+110	POP
+139	netBIOS
+1443	SQL Server
+3389	Terminal Service
+443	HTTPS
+1521	Oracle
+135	Remote Procedure Call, RPC
+445	共享文件夹及打印机
+3306	MySQL默认端口
