@@ -12,7 +12,7 @@ public enum PortService {
     private Map<Integer, String> portServiceEntity = new HashMap<>();
 
     private PortService() {
-        File file = new File(System.getProperty("user.dir") + "\\PortService");
+        File file = new File(System.getProperty("user.dir") + "/PortService");
         Scanner scanner = null;
         try {
             scanner = new Scanner(file);
